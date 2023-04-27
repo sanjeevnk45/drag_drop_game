@@ -133,7 +133,7 @@ const drop = (e) => {
   }
   //Win
   if (count == 3) {
-    result.innerText = `You Won!`;
+    result.innerText = `ನೀವು ಚಿತ್ರಗಳನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಹೊಂದಾಣಿಕೆ ಮಾಡಿದ್ದಿರಿ!`;
     stopGame();
   }
 };
