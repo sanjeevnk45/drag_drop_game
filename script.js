@@ -7,10 +7,10 @@ const controls = document.querySelector(".controls-container");
 const dragContainer = document.querySelector(".draggable-objects");
 const dropContainer = document.querySelector(".drop-points");
 const data = [
-  "fruit",
-  "vegetable",
-  "west",
-  "dry_west",
+  "ಹಸಿ_ತ್ಯಾಜ್ಯ",
+  "ಒಣ_ತ್ಯಾಜ್ಯ",
+  "ಅಪಾಯಕಾರಿ_ತ್ಯಾಜ್ಯ",
+  "ಘನ_ತ್ಯಾಜ್ಯ",
 ];
 
 let deviceType = "";
